@@ -4,7 +4,7 @@
 
 I’m passionate about integrating **networking technologies** with **web systems** to build robust, secure, and scalable solutions. I specialize in:
 
-- 🖥️ **System & Website Development** (PHP, Laravel, JavaScript, MySQL)
+- 🖥️ **System & Website Development** (PHP, python, MySQL)
 - 🌐 **Network Design & Simulation** (Cisco Packet Tracer, Huawei eNSP)
 - 📡 **Telecom Infrastructure and Protocols**
 - ⚙️ **Linux Server Setup (LAMP/LEMP), Docker, and Git**
@@ -14,7 +14,7 @@ I’m passionate about integrating **networking technologies** with **web system
 ### 🛠️ Tech Stack
 
 - **Languages:** PHP, JavaScript, Python, C, HTML/CSS
-- **Frameworks:** Laravel, Bootstrap, Flowbite, Vue (basic)
+- **Frameworks:** Laravel,Django, Bootstrap, Flowbite, Vue (basic)
 - **Networking Tools:** Cisco Packet Tracer, Huawei eNSP
 - **Dev Tools:** VS Code, Git, GitHub, Docker, XAMPP, Postman
 - **CMS:** WordPress, Elementor
